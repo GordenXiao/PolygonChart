@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PolygonChart">
+        <attr name="textPadding" format="dimension"></attr>
+        <attr name="max_value" format="integer"></attr>
+        <attr name="side_num" format="integer"></attr>
+        <attr name="border_color" format="color"></attr>
+        <attr name="border_size" format="dimension"></attr>
+        <attr name="text_size" format="dimension"></attr>
+        <attr name="text_color" format="color"></attr>
+        <attr name="fill_color" format="color"></attr>
+    </declare-styleable>
+
+</resources>
