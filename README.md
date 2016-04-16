@@ -18,3 +18,9 @@
         app:textPadding="3dp"
         />
         
+#effect picture
+![picture0](http://github.com/GordenXiao/PolygonChart/edit/master/images-folder/polygon1.png)
+![picture1](http://github.com/GordenXiao/PolygonChart/edit/master/images-folder/polygon2.png)
+![picture2](http://github.com/GordenXiao/PolygonChart/edit/master/images-folder/polygon3.png)
+![picture3](http://github.com/GordenXiao/PolygonChart/edit/master/images-folder/polygon4.png)
+![picture4](http://github.com/GordenXiao/PolygonChart/edit/master/images-folder/polygon5.png)
