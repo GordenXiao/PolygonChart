@@ -19,8 +19,8 @@
         />
         
 #effect picture
-![picture0](http://github.com/GordenXiao/PolygonChart/edit/master/images-folder/polygon1.png)
-![picture1](http://github.com/GordenXiao/PolygonChart/edit/master/images-folder/polygon2.png)
-![picture2](http://github.com/GordenXiao/PolygonChart/edit/master/images-folder/polygon3.png)
-![picture3](http://github.com/GordenXiao/PolygonChart/edit/master/images-folder/polygon4.png)
-![picture4](http://github.com/GordenXiao/PolygonChart/edit/master/images-folder/polygon5.png)
+![picture0](https://github.com/GordenXiao/PolygonChart/blob/master/images-folder/polygon1%20(1).png)
+![picture1](https://github.com/GordenXiao/PolygonChart/blob/master/images-folder/polygon1%20(2).png)
+![picture2](https://github.com/GordenXiao/PolygonChart/blob/master/images-folder/polygon1%20(3).png)
+![picture3](https://github.com/GordenXiao/PolygonChart/blob/master/images-folder/polygon1%20(4).png)
+![picture4](https://github.com/GordenXiao/PolygonChart/blob/master/images-folder/polygon1%20(5).png)
