@@ -22,8 +22,5 @@ QQ：354419188  欢迎大家加好友一起讨论技术相关的问题
         />
         
 ##effect picture
-![picture0](https://github.com/GordenXiao/PolygonChart/blob/master/images-folder/polygon1%20(1).png)
-![picture1](https://github.com/GordenXiao/PolygonChart/blob/master/images-folder/polygon1%20(2).png)
-![picture2](https://github.com/GordenXiao/PolygonChart/blob/master/images-folder/polygon1%20(3).png)
-![picture3](https://github.com/GordenXiao/PolygonChart/blob/master/images-folder/polygon1%20(4).png)
-![picture4](https://github.com/GordenXiao/PolygonChart/blob/master/images-folder/polygon1%20(5).png)
+录制了GIF方便大家看完整个功能
+![picture0](https://github.com/GordenXiao/PolygonChart/blob/master/images-folder/chart.gif)
