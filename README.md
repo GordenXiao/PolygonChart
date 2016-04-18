@@ -1,7 +1,10 @@
 # PolygonChart
-正多边形的统计图，支持任意边数的多边形
+正多边形的统计图，支持任意边数的多边形<br>
+联系邮箱:gordenxiao@sina.cn
+QQ：354419188  欢迎大家加好友一起讨论技术相关的问题
 
-#How to use
+
+##How to use
 
       <gorden.widget.PolygonChart
         android:id="@+id/polay"
@@ -18,7 +21,7 @@
         app:textPadding="3dp"
         />
         
-#effect picture
+##effect picture
 ![picture0](https://github.com/GordenXiao/PolygonChart/blob/master/images-folder/polygon1%20(1).png)
 ![picture1](https://github.com/GordenXiao/PolygonChart/blob/master/images-folder/polygon1%20(2).png)
 ![picture2](https://github.com/GordenXiao/PolygonChart/blob/master/images-folder/polygon1%20(3).png)
